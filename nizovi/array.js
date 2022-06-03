@@ -17,7 +17,7 @@ function doSomeMagic() {
             zeroElement++;
         }
     }
-    paragraph.innerHTML = `pozitivnih elemenata ima: ${posElement}  njegov procenat : ${(posElement/p * 100).toFixed(2)}%<br>
+    paragraph.innerHTML = `pozitivnih elemenata imaaa: ${posElement}  njegov procenat : ${(posElement/p * 100).toFixed(2)}%<br>
                     negativnih elemenata ima: ${negElement} , njegov procenat : ${(negElement/p *100).toFixed(2)}%<br>
                     nula elemenata ima: ${zeroElement}, njegov procenat : ${(zeroElement/p *100).toFixed(2)}%`;
 }
