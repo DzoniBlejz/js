@@ -14,10 +14,6 @@ function doSomeMagic() {
         } else if (i>0) {
             posElement++;
         } else {
-
-
-            
-            
             zeroElement++;
         }
     }
