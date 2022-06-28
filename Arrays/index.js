@@ -61,8 +61,8 @@
 // }
 
 
-let niz = ['biciklo', 'telefon', 'mobilni telefon', 'bostan'];
-let niz1 = ['testo', 'povrce'];
+// let niz = ['biciklo', 'telefon', 'mobilni telefon', 'bostan'];
+// let niz1 = ['testo', 'povrce'];
 
 
 // console.log(niz.includes("biciklo", 0,2));
@@ -80,10 +80,10 @@ let niz1 = ['testo', 'povrce'];
 // console.log(niz);
 
 
-const niz2 = [
-	['biciklo', 'josjedno biciklo', 'tri bicikla'] ,
-	['trotinet', 'josjedan trotinet', 'tri trotineta'] ,
-	['motor', 'josjedan motor', 'tri motora']
-	];
-console.log(niz2[2][1]);
+// const niz2 = [
+// 	['biciklo', 'josjedno biciklo', 'tri bicikla'] ,
+// 	['trotinet', 'josjedan trotinet', 'tri trotineta'] ,
+// 	['motor', 'josjedan motor', 'tri motora']
+// 	];
+// console.log(niz2[2][1]);
 
